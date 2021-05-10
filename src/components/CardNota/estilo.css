@@ -1,0 +1,27 @@
+ .card-nota{
+
+    background-color: bisque;    
+    margin: 8px;
+    padding: 20px;
+    border: 1px solid #c9c9c9;        
+    border-radius: 10px;  
+   
+}
+
+.card-nota-titulo{
+    
+    font-size:  1.3em;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;      
+
+}
+
+ul{
+    margin-top: 13px;
+    list-style-type: none;
+}
+
+li{
+    margin-top: 10px;
+}
+ 
